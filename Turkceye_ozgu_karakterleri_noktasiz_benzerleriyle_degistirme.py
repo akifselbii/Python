@@ -4,6 +4,7 @@ import tkinter as tk
 
 window = tk.Tk()
 window.minsize(600,400)
+window.resizable(0, 0)
 
 def clickMe():
     kaynak = "şçöğüıŞÇÖĞÜİ"
