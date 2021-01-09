@@ -1,3 +1,5 @@
+#Mehmet Akif SELBİ
+
 from flask_sqlalchemy import SQLAlchemy
 from flask import Flask
 import os
